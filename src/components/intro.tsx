@@ -23,7 +23,7 @@ export const Intro = () => {
           type: 'tween',
           duration: 0.2,
         }}
-        href="https://github.com/isaacetor"
+        href="https://github.com/Okwoli-Godwin"
         className="bg-muted rounded px-3 py-1 text-sm font-medium"
       >
         🎉<span className="ml-3">Hello there! Welcome to my portfolio!</span>
@@ -68,10 +68,7 @@ export const Intro = () => {
           className="hidden sm:flex"
           asChild
         >
-          <a
-            href="/Godwin-Okwoli-frontend-developer.pdf"
-            download="Godwin-Okwoli-frontend-developer.pdf"
-          >
+          <a href="/Okwoli_Godwin_CV.pdf" download="Okwoli_Godwin_CV.pdf">
             Download CV <Icons.download className="ml-2 size-4" />
           </a>
         </Button>
