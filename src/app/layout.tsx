@@ -20,9 +20,9 @@ export const metadata: Metadata = {
   keywords: siteConfig.keywords,
   robots: { index: true, follow: true },
   icons: {
-    icon: '/favicon/etor.gif',
-    shortcut: '/favicon/etor.gif',
-    apple: '/favicon/etor.gif',
+    icon: '/favicon/godwin.png',
+    shortcut: '/favicon/godwin.png',
+    apple: '/favicon/godwin.png',
   },
   verification: {
     google: siteConfig.googleSiteVerificationId,
