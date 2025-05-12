@@ -1,0 +1,37 @@
+import { env } from '@/env.mjs';
+
+export const siteConfig = {
+  title: 'Isaac Etor | Front-end software developer',
+  description:
+    "Hello, I'm Isaac. I am a front-end software developer from Lagos, Nigeria. I enjoy building sites and apps. My focus is React.",
+  keywords: [
+    'Isaac Etor',
+    'Front-end developer',
+    'Frontend developer',
+    'Front-end software developer',
+    'Nigeria',
+    'React',
+    'Next.js',
+    'wordpress',
+    'Web development',
+    'Web design',
+    'Front-end',
+    'UI/UX',
+    'Responsive design',
+    'JavaScript',
+    'TypeScript',
+    'HTML',
+    'CSS',
+    'Portfolio',
+    'Projects',
+    'freelance front-end developer',
+    'Website',
+    'Web applications',
+    'Developer',
+    'Code',
+    'Programming',
+    'Tech enthusiast',
+  ],
+  url: env.SITE_URL || 'https://isaacetor.vercel.app/',
+  googleSiteVerificationId: env.GOOGLE_SITE_VERIFICATION_ID || '',
+};
