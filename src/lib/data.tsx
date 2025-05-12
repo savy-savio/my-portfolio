@@ -66,7 +66,13 @@ export const projectsData = [
     title: 'Ambucare',
     description:
       'Worked on the Mobile application of ambucare, an innovative mobile application designed to allow individual book ride to any hospital of their choice',
-    technologies: ['React Native', 'TypeScript', 'Tailwind', 'Redux Toolkit', 'Tanstack'],
+    technologies: [
+      'React Native',
+      'TypeScript',
+      'Tailwind',
+      'Redux Toolkit',
+      'Tanstack',
+    ],
     links: {
       repo: '#',
       preview: '',
@@ -77,11 +83,7 @@ export const projectsData = [
     title: 'LifeLine',
     description:
       'Designed and develop a dynamic, mobile application for LifeLine, an application that connects wholesalers and pharmarcy for the selling of medicines',
-    technologies: [
-      'React Native',
-      'Typescript',
-      'Tailwind'
-    ],
+    technologies: ['React Native', 'Typescript', 'Tailwind'],
     links: {
       repo: '#',
       preview: '',
@@ -143,8 +145,8 @@ export const projectsData = [
     ],
     links: {
       repo: '#',
-      preview:  
-      'https://www.jennifermaleghemiheartofchangecharityfoundation.com/',
+      preview:
+        'https://www.jennifermaleghemiheartofchangecharityfoundation.com/',
     },
   },
   {

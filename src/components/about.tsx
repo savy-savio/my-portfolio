@@ -21,16 +21,16 @@ export const About = () => {
       <SectionHeading heading="About Me" />
       <div className="-mt-5 max-w-2xl text-center leading-7">
         <p className="mb-4">
-        I am Okwoli Godwin, a frontend and mobile developer with a passion for
+          I am Okwoli Godwin, a frontend and mobile developer with a passion for
           building innovative solutions. With over 4 years of experience in
           software engineering, I’ve developed a strong foundation in
           problem-solving and a keen interest in staying up-to-date with
           industry trends.
         </p>
         <p className="mb-4">
-        My expertise lies in React, React Native, TypeScript, and Tailwind CSS,
-          and I am always eager to expand my skill set. I have had the privilege
-          of working on various projects, from personal initiatives to
+          My expertise lies in React, React Native, TypeScript, and Tailwind
+          CSS, and I am always eager to expand my skill set. I have had the
+          privilege of working on various projects, from personal initiatives to
           collaborative endeavors, showcasing my adaptability and commitment to
           delivering high-quality results.
         </p>
