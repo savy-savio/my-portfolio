@@ -1,18 +1,18 @@
 import { env } from '@/env.mjs';
 
 export const siteConfig = {
-  title: 'Isaac Etor | Front-end software developer',
+  title: 'Okwoli Godwin | Front-end | Mobile App software developer',
   description:
-    "Hello, I'm Isaac. I am a front-end software developer from Lagos, Nigeria. I enjoy building sites and apps. My focus is React.",
+    "Hello, I'm Godwin. I am a front-end | Mobile App software developer from Lagos, Nigeria. I enjoy building sites and apps. My focus is React.",
   keywords: [
-    'Isaac Etor',
-    'Front-end developer',
+    'Okwoli Godwin',
+    'Mobile developer',
     'Frontend developer',
     'Front-end software developer',
     'Nigeria',
     'React',
+    'React native',
     'Next.js',
-    'wordpress',
     'Web development',
     'Web design',
     'Front-end',
@@ -32,6 +32,6 @@ export const siteConfig = {
     'Programming',
     'Tech enthusiast',
   ],
-  url: env.SITE_URL || 'https://isaacetor.vercel.app/',
+  url: env.SITE_URL || 'https://okwoligodwin.vercel.app/',
   googleSiteVerificationId: env.GOOGLE_SITE_VERIFICATION_ID || '',
 };
