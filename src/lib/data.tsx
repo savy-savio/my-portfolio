@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Icons } from '@/components/icons';
 
 export const links = [
@@ -31,12 +32,9 @@ export const projectsData = [
       'Developed a Students Disputes Service feature to help ensure tenants—especially students—have a voice and can live peacefully in our listed apartments. Understanding the importance of conflict resolution, I designed and implemented a system that allows users to easily report issues and receive timely support, aligning with our commitment to tenant wellbeing.',
     technologies: [
       'Responsive Design',
-      'e-commerce',
       'Javascript',
-      'HTML5',
-      'CSS3',
-      'PHP',
-      'MySql',
+      'Next.js',
+      'Redux',
     ],
     links: {
       repo: 'https://github.com/Okwoli-Godwin/New-Efortlex',
@@ -74,7 +72,7 @@ export const projectsData = [
       'Tanstack',
     ],
     links: {
-      repo: '#',
+      repo: 'https://github.com/savy-savio/ambucare',
       preview: '',
     },
   },
@@ -82,11 +80,11 @@ export const projectsData = [
     image: '/projects/log.png',
     title: 'LifeLine',
     description:
-      'Designed and develop a dynamic, mobile application for LifeLine, an application that connects wholesalers and pharmarcy for the selling of medicines',
+      'Designed and develop a dynamic, mobile application for LifeLine, an application that connects wholesalers and pharmarcy for the selling of medicines and provision of Healthcare',
     technologies: ['React Native', 'Typescript', 'Tailwind'],
     links: {
       repo: '#',
-      preview: '',
+      preview: 'https://clinic-profiles.mylifeline.world/med_plus_clinic',
     },
   },
   {
@@ -96,15 +94,14 @@ export const projectsData = [
       'Designed and develop a dynamic, user-friendly e-commerce website for stores.',
     technologies: [
       'Responsive Design',
-      'Javascript',
-      'HTML5',
-      'CSS3',
-      'PHP',
-      'MySql',
+      'Typescript',
+      'React',
+      'Redux',
+
     ],
     links: {
       repo: '#',
-      preview: 'https://main-kao.netlify.app/',
+      preview: 'https://store.sellowexpress.com/',
     },
   },
   {
@@ -114,13 +111,9 @@ export const projectsData = [
       ' Designed and developed a website that offers various services like consultation, event planning, charity foundation and a store where people can purchase items',
     technologies: [
       'Responsive Design',
-      'e-commerce',
-      'Javascript',
+      'React',
       'HTML5',
       'CSS3',
-      'PHP',
-      'MySql',
-      'WordPress',
     ],
     links: {
       repo: '#',
@@ -135,13 +128,9 @@ export const projectsData = [
       'Developed and designed a charity foundation website with features for events, showcasing some of their causes, a gallery and a page for accepting donation. ',
     technologies: [
       'Responsive Design',
-      'Wordpress',
       'Jquery',
       'Javascript',
-      'HTML5',
-      'CSS3',
-      'PHP',
-      'MySql',
+      'React',
     ],
     links: {
       repo: '#',
