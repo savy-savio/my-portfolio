@@ -37,7 +37,7 @@ export const projectsData = [
       'Redux',
     ],
     links: {
-      repo: 'https://github.com/Okwoli-Godwin/New-Efortlex',
+      repo: 'https://github.com/savy-savio/New-Efortlex',
       preview: 'https://efortlex2-0-fgu87rev2-professional-service.vercel.app/',
     },
   },
@@ -55,7 +55,7 @@ export const projectsData = [
       'cloudflare',
     ],
     links: {
-      repo: 'https://github.com/isaacetor/',
+      repo: '',
       preview: 'https://ecobin.pages.dev',
     },
   },
@@ -84,7 +84,7 @@ export const projectsData = [
     technologies: ['React Native', 'Typescript', 'Tailwind'],
     links: {
       repo: '#',
-      preview: 'https://clinic-profiles.mylifeline.world/med_plus_clinic',
+      preview: 'https://mylifeline.world/',
     },
   },
   {
@@ -152,7 +152,7 @@ export const projectsData = [
       'Node.JS',
     ],
     links: {
-      repo: 'https://github.com/isaacetor/Mavericks-frontend',
+      repo: '',
       preview: 'https://mavericks-frontend.pages.dev/',
     },
   },
